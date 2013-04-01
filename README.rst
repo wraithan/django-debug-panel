@@ -23,3 +23,5 @@ Prior Art
 * https://github.com/disqus/nose-performance (performance stuff)
 * https://github.com/django-debug-toolbar/django-debug-toolbar (original toolbar)
 * https://github.com/dcramer/django-devserver (does interesting logging stuff)
+* https://github.com/binaryage/firelogger (generic firebug thing)
+* https://github.com/binaryage/firelogger.py (python plugin for the firelogger)
